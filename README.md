@@ -18,3 +18,5 @@ Biểu đồ phân tích điểm thi|Đinh Thị Hoàng Bích|07/05/23
 Clustering|Trần Khánh Linh|10/05/23
 Regression|Đinh Thị Hoàng Bích|12/05/23
 Classify|Trần Khánh Linh|12/05/23
+
+Link video demo: https://youtu.be/XPiISzAtdm0
