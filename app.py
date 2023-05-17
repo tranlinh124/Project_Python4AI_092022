@@ -7,7 +7,7 @@ import re
 
 
 st.title("BẢNG ĐIỂM  LỚP PY4AI 09/2022")
-df = pd.read_csv("D:\AI\Project_Python4AI_092022\py4ai-score.csv")
+df = pd.read_csv("py4ai-score.csv")
 tab1, tab2, tab3, tab4 = st.tabs(["Danh sách", "Biểu đồ", "Phân nhóm", "Phân loại"])
 
 def clean_data():
